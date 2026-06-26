@@ -10,7 +10,7 @@ copyright-text: '&copy; Yishuo Meng 2023-2026. All Rights Reserved.'
 sections:
   - id: home
     nav: HOME
-    title: Yishuo Meng&infp;|&infp;孟依烁
+    title: Yishuo Meng | 孟依烁
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
