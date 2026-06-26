@@ -18,5 +18,7 @@
 
 - <strong>Yishuo Meng</strong> et al., An Efficient CNN Accelerator Achieving High PE Utilization Using a Dense-/Sparse-Aware Redundancy Reduction Method and Data–Index Decoupling Workflow. <strong>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), </strong>, 2023, 31(10): 1537-1550. <strong>(中科院二区/CCF-B类期刊) </strong>
 
+- Chen Yang, Yaoyao Yang, <strong>Yishuo Meng</strong> et al., Flexible and Efficient Convolutional Acceleration on Unified Hardware Using the Two-Stage Splitting Method and Layer-Adaptive Allocation of 1-D/2-D Winograd Units. <strong>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), </strong>, 2024, 43(3): 919-932. <strong>(CCF-A类期刊) </strong>
+
 - Chen Yang, <strong>Yishuo Meng</strong> et al., A Sparse CNN Accelerator for Eliminating Redundant Computations in Intra- and Inter-Convolutional/Pooling Layers. <strong>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), </strong>, 2022, 30(10): 1902-1915. <strong>(中科院二区/CCF-B类期刊) </strong>
 
