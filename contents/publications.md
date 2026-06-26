@@ -1,4 +1,4 @@
-#### Published
+#### 已发表论文
 
 - <strong>Yishuo Meng</strong> et al., Low-Overhead CNN Acceleration via FFT-based Circular Convolution and Partially Pipelined Dataflow. <strong>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</strong>, 2026, 45(7): 3276-3290. <strong>(CCF-A类期刊) </strong>
 
