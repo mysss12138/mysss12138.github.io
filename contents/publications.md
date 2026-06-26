@@ -1,16 +1,22 @@
-#### Accepted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>In Press.</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Yishuo Meng</strong> et al., Low-Overhead CNN Acceleration via FFT-based Circular Convolution and Partially Pipelined Dataflow. <strong>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</strong>, 2026, 45(7): 3276-3290. (CCF-A类期刊) 
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Yishuo Meng</strong> et al., An Efficient CNN Accelerator Exploiting Novel Tile-Based Near-Structured Sparsity to Achieve Multi-Level Irregularity Elimination. <strong>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</strong>, 2025, 72(11): 6578-6591. (中科院二区TOP期刊) 
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Yishuo Meng</strong> et al., Rethinking the Designing of Convolution Engine for Reconfigurable CNN Accelerator Using Sparse-Based Design Scheme. <strong>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</strong>, 2025, 72(8): 3983-3996. (中科院二区TOP期刊) 
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>Yishuo Meng</strong> et al., A High-Throughput and Flexible CNN Accelerator Based on Mixed-Radix FFT Method. <strong>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</strong>, 2025, 72(2): 816-829. (中科院二区TOP期刊) 
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>Yishuo Meng</strong> et al., A Mixed-Mode Acceleration via Sparsity-Adjustable Pruning for Balancing Computation Density in Lightweight CNNs. <strong>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), </strong>, 2025, 33(12): 3525-3529.  (中科院二区/CCF-B类期刊)
+
+- <strong>Yishuo Meng</strong> et al., A High-Performance SCNN Accelerator Using Parallel Sparsity Detection and Index-Oriented Computation Workflow. <strong>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), </strong>, 2025, 33(9): 2449-2461. (中科院二区/CCF-B类期刊) 
+
+- <strong>Yishuo Meng</strong> et al., ALSCA: A Large-Scale Sparse CNN Accelerator Using Position-First Dataflow and Input Channel Merging Approach. <strong>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), </strong>, 2024, 71(7): 3473-3477. (中科院二区TOP期刊) 
+
+- Chen Yang, <strong>Yishuo Meng</strong> et al., WRA-SS: A High-Performance Accelerator Integrating Winograd With Structured Sparsity for Convolutional Neural Networks. <strong>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), </strong>, 2024, 32(1): 164-177. (中科院二区/CCF-B类期刊) 
+
+- <strong>Yishuo Meng</strong> et al., An Efficient CNN Accelerator Achieving High PE Utilization Using a Dense-/Sparse-Aware Redundancy Reduction Method and Data–Index Decoupling Workflow. <strong>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), </strong>, 2023, 31(10): 1537-1550. (中科院二区/CCF-B类期刊) 
+
+- Chen Yang, <strong>Yishuo Meng</strong> et al., A Sparse CNN Accelerator for Eliminating Redundant Computations in Intra- and Inter-Convolutional/Pooling Layers. <strong>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), </strong>, 2022, 30(10): 1902-1915. (中科院二区/CCF-B类期刊) 
 

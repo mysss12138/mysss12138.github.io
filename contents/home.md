@@ -1,19 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+孟依烁，西安交通大学微电子学院2023级博士研究生。研究方向为基于稀疏挖掘的AI算法优化及硬件架构研究，在IEEE TCAD/TIFS/TCAS-I/TVLSI等国际权威期刊和重要会议上发表论文30余篇。入选2024年（首届）中国科协青年人才托举工程博士生专项计划；获得2025年国家自然科学基金青年学生基础研究项目（博士研究生）资助；入选2026年《电子与信息学报》星航计划优秀研究生。
 
-He is an incoming Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 联系方式
 
-#### Contact
+Email: 3121156027[at]stu.xjtu.edu.cn
 
-Email: senli[at]fas.harvard.edu
+#### 教育经历
 
-#### Education
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022–2025
+电子科学与技术，硕博连读
+西安交通大学微电子学院, 2021–2028
 
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+集成电路设计与集成系统，本科
+大连理工大学微电子学院, 2017–2021
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+#### 研究方向
+
+基于稀疏挖掘的AI算法优化及硬件架构
+

@@ -1,22 +1,16 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: Yishuo Meng's Homepage
+page-top-title: Yishuo Meng
+top-section-bg-text: AI Accelerator
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
+  - static/assets/background/background_0.jpg
+  - static/assets/background/background_1.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
-github-link:
-  text: Github
-  href: https://github.com/senli1073
-license-link:
-  text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+copyright-text: '&copy; Yishuo Meng 2023-2026. All Rights Reserved.'
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Yishuo Meng&infp;|&infp;孟依烁
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS

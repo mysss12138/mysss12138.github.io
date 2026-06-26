@@ -1,13 +1,13 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- （首届）中国科协青年人才托举工程博士生专项计划, 2024.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 西安交通大学“优秀博士生标兵”（在校生最高荣誉，每年入选15名博士生）, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 《电子与信息学报》星航计划优秀研究生（全国共22人入选），2026.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- 博士研究生国家奖学金，2025/2024.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- 硕士研究生国家奖学金, 2022.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- （首届）上海交通大学“交·创”高层次博士生论坛二等奖（前15%报告人获奖），2025.
 
